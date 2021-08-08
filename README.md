@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Koui's Github!
 
 <!--
 **APTX-4396/APTX-4396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I am trying to change major to Data Science and Big Data!**  
+**I am a college student and a programming rookie currently. For now I need to study C++, Python and Golang well to improve my coding skills.**  
+**One of my dreams is to make my own game, ,watch people playing it and have fun, so it is necessary for me to study Game Development as well!**  
