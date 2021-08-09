@@ -1,4 +1,4 @@
-### Welcome to Koui's Github!
+### Welcome to my Github!
 
 <!--
 **APTX-4396/APTX-4396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
