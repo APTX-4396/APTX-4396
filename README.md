@@ -1,4 +1,4 @@
-### Welcome to my Github!
+# Welcome to my Github!
 
 <!--
 **APTX-4396/APTX-4396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 我现在还在努力完善我的技能树！
+![image](https://user-images.githubusercontent.com/77609544/130254428-0f61673e-536e-4491-b5ca-167eba1d0412.png)
