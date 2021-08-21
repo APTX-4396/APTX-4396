@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 我现在还在努力完善我的技能树！
+这些是我想要点亮的技能（虽然大部分都还没学会，甚至还没学会markdown的图片超链接跳转方便技能树跳转界面）  
+知道这些领域都很难，不过会努力就是了  
 ![image](https://user-images.githubusercontent.com/77609544/130254598-83ec5c4e-7345-462f-b28b-753ef4904d1d.png)
 
